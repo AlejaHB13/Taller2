@@ -10,6 +10,16 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ .boton-red-social {
+  display: inline-block;
+  background-color: #3b5998;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 :root {
   --bs-blue: #2937f0;
   --bs-indigo: #6610f2;
