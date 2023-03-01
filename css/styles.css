@@ -141,6 +141,8 @@
 .imagen-derecha img {
   margin-left: 3px;
 }
+
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
